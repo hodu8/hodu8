@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main()
+{
+	int a=100;
+	printf("巩荐 港没捞\n");
+	printf("%d%犬伏肺 港没捞\n",a);
+	return 0;
+}
