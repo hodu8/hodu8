@@ -3,6 +3,7 @@ int main()
 {
 	int a=100;
 	printf("문수 멍청이\n");
-	printf("%d%확률로 멍청이\n",a);
+	printf("%d%%확률로 멍청이\n",a);
+	printf("가나다라\n");
 	return 0;
 }
